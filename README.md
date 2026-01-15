@@ -14,4 +14,4 @@ Matplotlib & Seaborn: Visualização de dados e gráficos estatísticos.
 
 Datetime: Tratamento de séries temporais.
 
-Looker Studio: Visualização e apresentação final (Em construção)
+Looker Studio: https://lookerstudio.google.com/s/tUNzhSB5IDY
